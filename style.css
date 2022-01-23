@@ -9,6 +9,6 @@ span
 }
 canvas
 {
-	background: pink;
+	background: linear-gradient(45deg , #ff512f,#dd2476);
 	border-radius: 20px;
 }
